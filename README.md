@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - Tenho 17 anos
 - Sou canceriana
 - Moro em cananeia
+- Tenho tres curso do alura
   
 
